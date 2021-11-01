@@ -7,6 +7,9 @@ body {
   height: 100px;
   background-color: #263859;
 }
+.info {
+  padding-left: 610px;
+}
 #search-form
 {
   display: flex;
